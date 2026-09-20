@@ -47,7 +47,7 @@ api_utility/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AdhyatmCodes27/python_learning_plan
 cd api_utility
 ```
 
